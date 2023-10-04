@@ -38,7 +38,8 @@ size_t binary_tree_height(const binary_tree_t *tree)
 }
 
 /**
- * binary_tree_is_perfect - Will checks if tree is balanced in the right and left
+ * binary_tree_is_perfect - Will check if tree is balanced
+ * in the right and left
  * @tree:node of binary tree
  * Return: if perfect 1 if not 0
  */
