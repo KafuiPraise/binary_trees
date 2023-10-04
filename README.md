@@ -5,15 +5,6 @@ and disadvantages of using trees as data structures.I learned about how to
 qualify trees as well as how to traverse them. Throughout the project, we
 implemented binary, binary search, AVL, and Max Binary Heap trees.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files for all tasks. Provided by ALX
-
-## Helper File :raised_hands:
-
-* [binary_tree_print.c](./binary_tree_print.c): C function that prints binary
-trees in a pretty way.
-
 ## Header File :file_folder:
 
 * [binary_trees.h](./binary_trees.h): Header file containing definitions and
@@ -22,7 +13,7 @@ prototypes for all types and functions written for the project.
 Data Structures
 ```
 /**
- * struct binary_tree_s - Binary tree nofe
+ * struct binary_tree_s - Binary tree node
  * @n: Integer stored in the node
  * @parent: Pointer to the parent node
  * @left: Pointer to the left child node
